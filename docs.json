@@ -79,13 +79,12 @@
       {
         "label": "Support",
         "href": "mailto:support@scorton.eu"
+      },
+      {
+        "label": "Get Started",
+        "href": "/quickstart"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Get Started",
-      "href": "/quickstart"
-    }
+    ]
   },
   "footer": {
     "socials": {
